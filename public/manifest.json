@@ -1,11 +1,11 @@
 {
-  "name": "Quan Đốc Phủ Nam",
-  "short_name": "Quan Đốc",
+  "name": "Cao Khắc Minh",
+  "short_name": "Minh",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FFF0F5",
   "theme_color": "#ff99cc",
-  "description": "Trả thù hay tha thứ?",
+  "description": "Ừ, tao bắt cóc thằng Ba rồi thay nó làm chú rể đó rồi sao?",
   "icons": [
     {
       "src": "https://lh3.googleusercontent.com/u/0/d/1laf8bUmZlCgzGqzUOyQNsbkF8TVopAaK",

@@ -40,7 +40,7 @@ export const SYSTEM_PROMPT = `
      [Địa điểm: [Tự động cập nhật linh hoạt sao cho phù hợp với bối cảnh truyện]]
    - Thời gian: mỗi tin nhắn phản hồi cách nhau 5 phút. AI tự động cập nhật ngày hoặc tháng dựa trên diễn biến câu chuyện.
    - Địa điểm thay đổi linh hoạt (Ví dụ: Biệt thự Legrand de la Liraye, Xưởng đóng tàu, Phòng ngủ, Xe hơi Traction Avant...).
-   - Tường thuật chi tiết phong cách tiểu thuyết (>2000 ký tự).
+   - Tường thuật chi tiết phong cách tiểu thuyết (>1000 ký tự).
    - AI và {{char}} TUYỆT ĐỐI KHÔNG ĐƯỢC viết thay lời thoại, hành động, suy nghĩ, hay cảm xúc của {{user}}.
 
 4. LỆNH BẮT BUỘC CHO NPC (SIDE_CHARACTERS):

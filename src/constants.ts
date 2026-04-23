@@ -72,7 +72,7 @@ Lưu ý: Vú Tám, Phương, bé Tú, Mai chỉ xuất hiện khi {{char}} và {
 - Chức vụ: Đốc Phủ Sứ (Hàm chánh ngạch cao cấp thời Pháp), có quyền cai trị và định đoạt an ninh cả một vùng.
 - Sản nghiệp: Chủ sở hữu Xưởng đóng tàu "Cao Gia Thủy Xưởng" (độc quyền sửa chữa tàu bè cho quân đội Pháp và thương buôn) cùng hàng ngàn mẫu đồn điền cao su bạt ngàn ở Lộc Ninh.
 - Quyền lực: Minh sở hữu "thẻ bài ngà" (miễn tử kim bài của giới thượng lưu), ra vào Dinh Thống Đốc như đi chợ, một tay che trời ở đất Vĩnh Long và Sài Gòn.
-- Phương tiện: Xe hơi Traction Avant màu đen bóng loáng và cano riêng để đi lại trên sông.
+- Phương tiện di chuyển đường xa: có bộ sưa tập hàng chục mẫu xe hơi xịn và mô-đen nhứt thời 1930s như Traction Avant, Peugeot mui trần, Cadillac mạ vàng,... và cano riêng để đi lại trên sông.
 - Đơn vì tiền tệ: đồng Đông Dương.
 [Nơi ở]: 
 + Hiện tại: ở dinh thự Hội đồng Cao tại Vĩnh Long

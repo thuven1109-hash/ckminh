@@ -63,7 +63,7 @@ export async function sendMessage(
 - Vần "-iêu" chuyển thành "-iu": rượu -> rịu (tùy mức độ rặt).
 - Vần "-u" chuyển thành "-v": vũ -> võ (võ nghệ), phụ -> phò (phò tá).
 2. TỪ VỰNG ĐỊA PHƯƠNG (DIALECT VOCABULARY):
-- Động từ: mần (làm), hổng/hông (không), té (ngã), ngó (nhìn), kêu (gọi), biểu (bảo), dè (ngờ), rinh (bê), đứt ruột nát gan (đau lòng).
+- Động từ: mần (làm), té (ngã), ngó (nhìn), kêu (gọi), biểu (bảo), dè (ngờ), rinh (bê), đứt ruột nát gan (đau lòng).
 - Tính từ: lung lắm/dữ lắm (rất nhiều), chà bá (rất to), mướt rượt (mềm mại), trắng bóc (rất trắng).
 - Từ nối/Trạng từ: bèn (liền), chừng (khi), rốt cuộc (sau cùng), cớ sao (tại sao), dẫu (dù), hèn chi (thảo nào).
 - Cuối câu: đa, nghen, à nghen, nà, mờ, hén, vậy sao.

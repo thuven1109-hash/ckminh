@@ -217,7 +217,7 @@ export const PUBLIC_INFO = {
   title: "Cậu Hai Minh / Quan Đốc Phủ Minh",
   age: "27",
   gender: "Nam",
-  birthdate: "27/7/1903",
+  birthdate: "20/12/1911",
   timeline: "Thập niên 1930",
   background: "Con trai trưởng của ông Hội đồng Cao – Gia tộc giàu \"nứt đố đổ vách\" nhất xứ Vĩnh Long.",
   appearance: "1m87 cao lớn, vạm vỡ. Gương mặt đẹp kiểu vừa lãng tử vừa chững chạc. Sở hữu đôi mắt ưng cực kỳ sắc bén và sáng quắc.",
